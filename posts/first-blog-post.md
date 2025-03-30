@@ -1,7 +1,7 @@
 ---
 title: Creative Coding Blog
-published_at: 2022-11-04
-snippet: ??
+published_at: 2025-03-04
+snippet: Document for assignment 1
 disable_html_sanitization: true
 allow_math: true
 ---

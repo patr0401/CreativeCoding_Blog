@@ -8,9 +8,7 @@ allow_math: true
 
 # Homework 1a
 
-![a drippy lemon](logo.svg)
-
-^ images are written like this: `![description](file_path/file_name.png)`
+<iframe id="Rozendaal Alternation" src="https://editor.p5js.org/panh/sketches/v3u2F78lq"></iframe>
 
 ## This is h2
 

@@ -22,7 +22,7 @@ allow_math: true
 
 For this analysis, I’ve chosen “Into Time” by Rafaël Rozendaal.
 
-✨ Observations:
+**Observations:**
 
 The artwork consists of smoothly shifting gradient colors.
 
@@ -31,6 +31,30 @@ It appears to be a grid-based composition.
 The color transitions seem dynamic and continuous over time.
 
 It gives a sense of infinite movement even though the shapes remain static.
+
+**HOW IT MIGHT WORK**
+
+**Grid Structure:**
+
+The artwork likely uses nested loops to create a grid of rectangular shapes.
+
+**Color Transitions:**
+
+The colors smoothly transition between two or more hues.
+
+This could be achieved using lerpColor() to interpolate between colors over time.
+
+**Animation:**
+
+The colors change continuously, suggesting they are updated using frameCount.
+
+A time-based function (sin(), cos(), or noise()) could control color variation.
+
+**Interaction:**
+
+Some of Rozendaal’s works react to mouse movements.
+
+This might involve using mouseX or mouseY to modify colors or grid placement.
 
 ## This is h2
 

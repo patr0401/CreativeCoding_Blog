@@ -76,6 +76,25 @@ p5.js Discord – for feedback & debugging.
 
 The Coding Train – great video tutorials.
 
+
+## Homework 1b
+
+🎯 Implementing a Concept: lerpColor() in a Grid
+
+
+Based on my discussions, I decided to focus on color interpolation (lerpColor()), which Emma suggested was key to Rozendaal’s smooth transitions.
+
+Here’s my p5.js sketch implementing this concept:
+
+<iframe id="lerpColor" src="https://editor.p5js.org/panh/sketches/v3u2F78lq"></iframe>
+
+<script type="module">
+
+    const iframe  = document.getElementById (`lerpColor`)
+    iframe.width  = iframe.parentNode.scrollWidth
+    iframe.height = iframe.width * 9 / 16 + 42
+
+
 ## This is h2
 
 *This is italic.*[^1]

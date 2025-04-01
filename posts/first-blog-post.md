@@ -19,12 +19,16 @@ allow_math: true
 </script>
 
 **2**
+
 For this analysis, I’ve chosen “Into Time” by Rafaël Rozendaal.
 
 ✨ Observations:
+
 The artwork consists of smoothly shifting gradient colors.
 It appears to be a grid-based composition.
+
 The color transitions seem dynamic and continuous over time.
+
 It gives a sense of infinite movement even though the shapes remain static.
 
 ## This is h2

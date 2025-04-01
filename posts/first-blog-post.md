@@ -10,6 +10,14 @@ allow_math: true
 
 <iframe id="Rozendaal Alternation" src="https://editor.p5js.org/panh/sketches/v3u2F78lq"></iframe>
 
+<script type="module">
+
+    const iframe  = document.getElementById (`Rozendaal Alternation`)
+    iframe.width  = iframe.parentNode.scrollWidth
+    iframe.height = iframe.width * 9 / 16 + 42
+
+</script>
+
 ## This is h2
 
 *This is italic.*[^1]

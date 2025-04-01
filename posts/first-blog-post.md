@@ -103,6 +103,46 @@ Here’s my p5.js sketch implementing this concept:
 
 ✔ The time variable (t) controls the color shift, ensuring each square updates uniquely.
 
+## Homework 2a
+
+My AT1 project is a digital emotional support companion designed to be visually soft, playful, and interactive.
+
+**Cute Visuals:** Soft & Expressive
+
+Example: Blobby characters with big, blinking eyes.
+
+Technique: Rounded shapes, smooth gradients, and eye movement for expressiveness.
+
+**Cute Sounds:** Playful & Gentle
+
+Example: Tiny "boop" sounds when clicked.
+
+Technique: High-pitched, short sound effects using p5.sound.
+
+**Cute Interactions:** Fun & Engaging
+
+Example: Blobs wobble when clicked and follow the cursor.
+
+Technique: Subtle size changes and smooth movement animations.
+
+**Plan for AT1**
+
+A friendly, responsive creature that reacts to clicks, blinks, and moves softly—offering a comforting digital presence.
+
+## Homework 2b
+
+**Who is My Kindred Spirit?**
+
+My kindred spirit is an emotional support animal—not a physical one, but a digital presence. Just like real support animals bring comfort and joy, my p5.js project is designed to be an interactive, playful, and soothing experience.
+
+**Context of Our Kinship**
+
+We share a bond of care and companionship. Whether through soft movements, vibrant colors, or responsive interactions, this digital creature exists to bring a sense of warmth and ease.
+
+**Our Common Purpose**
+
+To create a calming, interactive digital companion that engages through motion, sound, and playfulness—bringing small moments of joy, just like an emotional support animal would.
+
 
 ## This is h2
 

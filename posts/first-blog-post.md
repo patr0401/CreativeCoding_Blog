@@ -93,6 +93,15 @@ Here’s my p5.js sketch implementing this concept:
     const iframe  = document.getElementById (`lerpColor`)
     iframe.width  = iframe.parentNode.scrollWidth
     iframe.height = iframe.width * 9 / 16 + 42
+    </script>
+
+   **How the Code Works:**
+
+✔ Nested for loops create the grid of squares.
+
+✔ lerpColor() smoothly blends colors from pink to blue.
+
+✔ The time variable (t) controls the color shift, ensuring each square updates uniquely.
 
 
 ## This is h2

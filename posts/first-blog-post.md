@@ -86,7 +86,7 @@ Based on my discussions, I decided to focus on color interpolation (lerpColor())
 
 Here’s my p5.js sketch implementing this concept:
 
-<iframe id="lerpColor" src="https://editor.p5js.org/panh/sketches/v3u2F78lq"></iframe>
+<iframe id="lerpColor" src="https://editor.p5js.org/panh/sketches/f4a6UMjxX"></iframe>
 
 <script type="module">
 

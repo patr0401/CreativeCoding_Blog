@@ -82,7 +82,7 @@ The Coding Train – great video tutorials.
 🎯 Implementing a Concept: lerpColor() in a Grid
 
 
-Based on my discussions, I decided to focus on color interpolation (lerpColor()), which Emma suggested was key to Rozendaal’s smooth transitions.
+Based on my discussions, I decided to focus on color interpolation (lerpColor()), which was key to Rozendaal’s smooth transitions.
 
 Here’s my p5.js sketch implementing this concept:
 

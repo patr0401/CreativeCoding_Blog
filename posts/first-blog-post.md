@@ -26,6 +26,7 @@ The artwork consists of smoothly shifting gradient colors.
 It appears to be a grid-based composition.
 The color transitions seem dynamic and continuous over time.
 It gives a sense of infinite movement even though the shapes remain static.
+
 ## This is h2
 
 *This is italic.*[^1]

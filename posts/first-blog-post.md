@@ -144,6 +144,40 @@ We share a bond of care and companionship. Whether through soft movements, vibra
 To create a calming, interactive digital companion that engages through motion, sound, and playfulness—bringing small moments of joy, just like an emotional support animal would.
 
 
+## Homework 3a
+
+**Analyzing Rafaël Rozendaal's Cute Aesthetic**
+
+For this analysis, I chose another work by Rafaël Rozendaal and explored how it achieves a cute aesthetic.
+
+*🌈 Visual Cuteness*
+
+Soft pastels, gradients, and rounded shapes create a playful vibe.
+
+Smooth, floating animations add a sense of lightness and joy.
+
+*🎵 Sonic Cuteness*
+
+If sound is present, it’s often bubbly, high-pitched, or chime-like.
+
+These sounds enhance the feeling of whimsy and delight.
+
+*🖱️ Interactive Cuteness*
+
+Elements react playfully—bouncing, wiggling, or squishing.
+
+Simple interactions make everything feel fun and alive!
+
+**✨ Achieving Cuteness in My AT1 Project**
+
+*🎨 Visuals:* Soft colors, blob-like shapes, and smooth motions.
+
+*🔊 Sounds:* Playful clicks, gentle chimes, and bubbly tones.
+
+*🕹️ Interactions:* Wiggly, bouncy responses to user input.
+
+
+
 ## This is h2
 
 *This is italic.*[^1]

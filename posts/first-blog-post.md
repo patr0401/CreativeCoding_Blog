@@ -56,6 +56,26 @@ Some of Rozendaal’s works react to mouse movements.
 
 This might involve using mouseX or mouseY to modify colors or grid placement.
 
+**📌 Step 5: Useful Resources**
+
+🔹 p5.js Reference
+
+
+for loops – for creating a grid.
+
+lerpColor() – for gradual color transitions.
+
+sin() & cos() – for smooth animations.
+
+🔹 p5.js Community
+
+
+OpenProcessing – to explore similar sketches.
+
+p5.js Discord – for feedback & debugging.
+
+The Coding Train – great video tutorials.
+
 ## This is h2
 
 *This is italic.*[^1]
